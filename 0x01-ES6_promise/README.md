@@ -1,12 +1,11 @@
-__0x00. ES6 Basics__
+__0x00. ES6_Promise__
+
 I refreshed JavaScript basics in this project.
 
-Concepts
-New features introduced in ES6
-The difference between a constant and a variable
-Block-scoped variables
-Arrow functions and function parameters default to them
-Rest and spread function parameters
-String templating in ES6
-Object creation and their properties in ES6
-Iterators and for-of loops
+__Learning Objectives__
+1. How to use the then, resolve, catch methods
+2. How to use every method of the Promise object
+3. Throw / Try
+4. The await operator
+5. How to use an async function
+
